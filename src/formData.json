@@ -1,0 +1,106 @@
+
+
+
+[
+    {
+      "fieldName": "agreeOnTakeTest",
+      "label": "Are you willing to take a take-home task?",
+      "type": "checkbox"
+    },
+    {
+      "fieldName": "name",
+      "label": "Your name",
+      "type": "string"
+    },
+    {
+      "fieldName": "email",
+      "label": "Your email",
+      "type": "string"
+    },
+    {
+      "fieldName": "yearOfExperience",
+      "label": "Professional experience",
+      "type": "number"
+    },
+    {
+      "fieldName": "rateOptimization",
+      "label": "How do you rate yourself on performance and optimization?",
+      "type": "number"
+    },
+    {
+      "fieldName": "github",
+      "label": "Your GitHub link",
+      "type": "string"
+    },
+    {
+      "fieldName": "linkedin",
+      "label": "Your LinkedIn link",
+      "type": "string"
+    },
+    {
+      "fieldName": "phone",
+      "label": "Contact number",
+      "type": "string"
+    },
+    {
+      "fieldName": "techstack",
+      "label": "Tech stacks",
+      "type": "array"
+    },
+    {
+      "fieldName": "relocatable",
+      "label": "Are you willing to relocate to Bangalore?",
+      "type": "checkbox"
+    },
+    {
+      "fieldName": "goal",
+      "label": "State your lifetime goal",
+      "type": "string"
+    },
+    {
+      "fieldName": "achievement",
+      "label": "What do you want to achieve with us or learn from us?",
+      "type": "string"
+    },
+    {
+      "fieldName": "why",
+      "label": "What do you think of our motto? Why do you choose Willeder?",
+      "type": "string"
+    },
+    {
+      "fieldName": "reason",
+      "label": "Reason for job change",
+      "type": "string"
+    },
+    {
+      "fieldName": "currentSalary",
+      "label": "Current salary in LPA",
+      "type": "number"
+    },
+    {
+      "fieldName": "expectedSalary",
+      "label": "Expected salary in LPA",
+      "type": "number"
+    },
+    {
+      "fieldName": "noticePeriod",
+      "label": "Notice period in days",
+      "type": "number"
+    },
+    {
+      "fieldName": "express",
+      "label": "Years of experience in Express",
+      "type": "number"
+    },
+    {
+      "fieldName": "typescript",
+      "label": "Years of experience in TypeScript",
+      "type": "number"
+    },
+    {
+      "fieldName": "swagger",
+      "label": "Years of experience in Swagger",
+      "type": "number"
+    }
+  ]
+  
